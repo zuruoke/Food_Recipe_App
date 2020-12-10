@@ -3,9 +3,10 @@
 A new Flutter project.
 
 # Samples
-![Screenshot_1607641414](https://user-images.githubusercontent.com/51057490/101841422-2cc83580-3b46-11eb-84c8-abd6b72e441b.png)
-![Screenshot_1607641421](https://user-images.githubusercontent.com/51057490/101841423-2df96280-3b46-11eb-804f-9587bb11d49a.png)
-![Screenshot_1607641457](https://user-images.githubusercontent.com/51057490/101841425-2fc32600-3b46-11eb-945e-e1e70af15e3a.png)
+![001](https://user-images.githubusercontent.com/51057490/101841642-a102d900-3b46-11eb-8cbe-921c86ff610a.JPG)
+![002](https://user-images.githubusercontent.com/51057490/101841649-a3653300-3b46-11eb-8a4f-e5fe91fd407d.JPG)
+![003](https://user-images.githubusercontent.com/51057490/101841653-a5c78d00-3b46-11eb-8e61-1f0ddba7c7bb.JPG)
+
 
 ## Getting Started
 
